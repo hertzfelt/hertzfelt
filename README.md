@@ -1,4 +1,4 @@
-AI-Augmented Developer & Audio Technologist
+# AI-Augmented Developer & Audio Technologist
 
 With over two decades of experience spanning the audio industry and cutting-edge AI technologies, I bring a unique blend of creative and technical expertise to the digital landscape.
 
