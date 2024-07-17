@@ -19,7 +19,7 @@ Harnessing advanced AI models and frameworks to push the boundaries of audio, vi
 
 ## Technical Proficiencies
 
-### 🎵 Audio Engineering & Production
+### Audio Engineering & Production
 
 #### Digital Audio Workstations (DAWs)
 - Ableton Live (Expert)
@@ -40,7 +40,7 @@ Harnessing advanced AI models and frameworks to push the boundaries of audio, vi
 - Xfer Records Serum
 - Splice Sounds
 
-### 🎥 Video & Image Processing
+### Video & Image Processing
 
 #### Video Editing & Motion Graphics
 - Final Cut Pro X
@@ -59,7 +59,7 @@ Harnessing advanced AI models and frameworks to push the boundaries of audio, vi
 | Stable Diffusion | |
 | ComfyUI | |
 
-### 🧠 AI/ML Operations
+### AI/ML Operations
 
 #### Large Language Models (LLMs)
 - OpenAI GPT Suite (GPT-3.5, GPT-4)
