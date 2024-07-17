@@ -2,13 +2,6 @@
 
 With over two decades of experience in the audio industry, I am a seasoned professional who has transitioned from diverse roles—ranging from DJing Drum & Bass and Jungle in the underground scenes of 90s Los Angeles, to multifaceted positions within studio management and digital marketing. A 2007 alumnus of Full Sail University, I have navigated a trajectory through various audio engineering and production capacities, including roles as a recording engineer, sound designer, and producer. My journey has also encompassed artist relations and social media strategy, providing a comprehensive background in both the creative and operational facets of the industry.
 
-## Career Trajectory
-
-1. **Underground Music Scene (1990s)**: Pioneered as a DJ in Los Angeles, specializing in Drum & Bass and Jungle genres.
-2. **Audio Engineering (2007-2022)**: Graduated from Full Sail University, leading to roles in recording, sound design, and production.
-3. **Digital Marketing & Artist Relations**: Leveraged industry knowledge to bridge technical and promotional aspects of audio.
-4. **AI Integration (2022-Present)**: Pivoted to AI technologies, focusing on AIOps, MLOps, and DevOps methodologies.
-
 ## Current Focus
 
 ***AI-Augmented Development & Multidisciplinary Creative Technology***
