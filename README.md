@@ -1,6 +1,6 @@
 # AI-Augmented Developer & Audio Technologist
 
-With over two decades of experience spanning the audio industry and cutting-edge AI technologies, I bring a unique blend of creative and technical expertise to the digital landscape.
+With over two decades of experience in the audio industry, I am a seasoned professional who has transitioned from diverse roles—ranging from DJing Drum & Bass and Jungle in the underground scenes of 90s Los Angeles, to multifaceted positions within studio management and digital marketing. A 2007 alumnus of Full Sail University, I have navigated a trajectory through various audio engineering and production capacities, including roles as a recording engineer, sound designer, and producer. My journey has also encompassed artist relations and social media strategy, providing a comprehensive background in both the creative and operational facets of the industry.
 
 ## Career Trajectory
 
